@@ -1,0 +1,48 @@
+[Variables]
+; -------------------------------- Appearance -------------------------------- ;
+Scale=0.7
+Corner=0
+Blur=None
+Font=Consolas
+Weight=1
+BackgroundColor=0,0,0
+BackgroundOpacity=0
+DefaultOpacity=75
+DefaultColor=0,0,0
+DefaultFontColor=255,255,255
+PressedOpacity=255
+PressedColor=255,255,255
+PressedFontColor=233,0,139
+KeyPadding=5
+; ------------------------------------ RGB ----------------------------------- ;
+RGBSpeed=1
+RGB=0
+RGBOverride=0
+Rm.AniUpdate=40
+; ---------------------------------- Circle ---------------------------------- ;
+Circ=1
+MaxX=300
+MaxY=300
+MouseFetchDelay=10
+; ---------------------------------- Layout ---------------------------------- ;
+Layout=WASD
+; -------------------------------- Mouse & CPS ------------------------------- ;
+Mouse=1
+MouseCPS=0
+; --------------------------------- Defaults --------------------------------- ;
+PreviousX=0
+PreviousY=0
+NowX=0
+NowY=0
+CPS=LMB
+CPS2=RMB
+Clicks=0
+Clicks2=0
+P=40
+R=10
+GlobalP=10
+; --------------------------------- Fullboard -------------------------------- ;
+Row1=0000000000
+Row2=1111111110
+Row3=010000000
+Row4=0000010
